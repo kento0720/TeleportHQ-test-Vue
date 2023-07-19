@@ -39,7 +39,7 @@
                 <span>
                   <span>
                     私たちの目の前に広がる未来への道筋を、
-                    <span v-html="rawkg7z"></span>
+                    <span v-html="raworib"></span>
                   </span>
                   <br />
                   <span>
@@ -51,12 +51,12 @@
                 <span>
                   <span>
                     これからの世界は、想像を超えたスピードで進化し続けます。
-                    <span v-html="raw8qpt"></span>
+                    <span v-html="rawviid"></span>
                   </span>
                   <br />
                   <span>
                     その変化を見据え、新たな課題やニーズに応えるための
-                    <span v-html="rawvdpb"></span>
+                    <span v-html="raw5xmg"></span>
                   </span>
                   <br />
                   <span>革新的なソリューションやプロダクトを創造します。</span>
@@ -116,7 +116,7 @@
                 <span>
                   <span>
                     私たちの目の前に広がる未来への道筋を、
-                    <span v-html="raw5hkl"></span>
+                    <span v-html="rawx6yx"></span>
                   </span>
                   <br />
                   <span>
@@ -128,12 +128,12 @@
                 <span>
                   <span>
                     これからの世界は、想像を超えたスピードで進化し続けます。
-                    <span v-html="raw1q0a"></span>
+                    <span v-html="rawk1h6"></span>
                   </span>
                   <br />
                   <span>
                     その変化を見据え、新たな課題やニーズに応えるための
-                    <span v-html="raw0m50"></span>
+                    <span v-html="rawo9d0"></span>
                   </span>
                   <br />
                   <span>革新的なソリューションやプロダクトを創造します。</span>
@@ -193,7 +193,7 @@
                 <span>
                   <span>
                     私たちの目の前に広がる未来への道筋を、
-                    <span v-html="rawb8x0"></span>
+                    <span v-html="rawsq78"></span>
                   </span>
                   <br />
                   <span>
@@ -205,12 +205,12 @@
                 <span>
                   <span>
                     これからの世界は、想像を超えたスピードで進化し続けます。
-                    <span v-html="rawlr2x"></span>
+                    <span v-html="rawzj1f"></span>
                   </span>
                   <br />
                   <span>
                     その変化を見据え、新たな課題やニーズに応えるための
-                    <span v-html="rawe4xs"></span>
+                    <span v-html="raw4w15"></span>
                   </span>
                   <br />
                   <span>革新的なソリューションやプロダクトを創造します。</span>
@@ -235,15 +235,15 @@ export default {
   props: {},
   data() {
     return {
-      rawkg7z: ' ',
-      raw8qpt: ' ',
-      rawvdpb: ' ',
-      raw5hkl: ' ',
-      raw1q0a: ' ',
-      raw0m50: ' ',
-      rawb8x0: ' ',
-      rawlr2x: ' ',
-      rawe4xs: ' ',
+      raworib: ' ',
+      rawviid: ' ',
+      raw5xmg: ' ',
+      rawx6yx: ' ',
+      rawk1h6: ' ',
+      rawo9d0: ' ',
+      rawsq78: ' ',
+      rawzj1f: ' ',
+      raw4w15: ' ',
     }
   },
 }
