@@ -17,6 +17,11 @@
         <span class="group252-text4"><span>Scroll Down</span></span>
       </div>
     </div>
+    <div class="group252-frame1">
+      <div class="group252-frame381">
+        <span class="group252-text6"><span>Scroll Down</span></span>
+      </div>
+    </div>
     <app-frame></app-frame>
   </div>
 </template>
@@ -123,6 +128,37 @@ export default {
   text-decoration: none;
 }
 .group252-text4 {
+  color: rgba(53, 217, 217, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Barlow;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group252-frame1 {
+  gap: 10px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 1);
+}
+.group252-frame381 {
+  gap: 16px;
+  display: flex;
+  padding: 1px 0;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.group252-text6 {
   color: rgba(53, 217, 217, 1);
   height: auto;
   font-size: 18px;
