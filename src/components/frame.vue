@@ -39,7 +39,7 @@
                 <span>
                   <span>
                     私たちの目の前に広がる未来への道筋を、
-                    <span v-html="rawxn4l"></span>
+                    <span v-html="rawkg7z"></span>
                   </span>
                   <br />
                   <span>
@@ -51,12 +51,12 @@
                 <span>
                   <span>
                     これからの世界は、想像を超えたスピードで進化し続けます。
-                    <span v-html="raw9zfs"></span>
+                    <span v-html="raw8qpt"></span>
                   </span>
                   <br />
                   <span>
                     その変化を見据え、新たな課題やニーズに応えるための
-                    <span v-html="rawhhla"></span>
+                    <span v-html="rawvdpb"></span>
                   </span>
                   <br />
                   <span>革新的なソリューションやプロダクトを創造します。</span>
@@ -92,6 +92,11 @@
               src="/external/imagemessagekiri15011-r2o2-800w.png"
               class="frame-imagemessagekiri11"
             />
+            <img
+              alt="imagemessagekiri15011"
+              src="/external/imagemessagekiri15011-r2o2-800w.png"
+              class="frame-imagemessagekiri12"
+            />
             <div class="frame-frame401">
               <span class="frame-text35">
                 <span>WILLVERが目指す未来のカタチ</span>
@@ -111,7 +116,7 @@
                 <span>
                   <span>
                     私たちの目の前に広がる未来への道筋を、
-                    <span v-html="raw3ds1"></span>
+                    <span v-html="raw5hkl"></span>
                   </span>
                   <br />
                   <span>
@@ -123,12 +128,12 @@
                 <span>
                   <span>
                     これからの世界は、想像を超えたスピードで進化し続けます。
-                    <span v-html="rawbrvb"></span>
+                    <span v-html="raw1q0a"></span>
                   </span>
                   <br />
                   <span>
                     その変化を見据え、新たな課題やニーズに応えるための
-                    <span v-html="raw2ubf"></span>
+                    <span v-html="raw0m50"></span>
                   </span>
                   <br />
                   <span>革新的なソリューションやプロダクトを創造します。</span>
@@ -144,6 +149,83 @@
         </div>
       </div>
     </div>
+    <div class="frame-frame384">
+      <div class="frame-frame372">
+        <div class="frame-frame352">
+          <div class="frame-frame342">
+            <span class="frame-text58"><span>Design for the Future</span></span>
+            <span class="frame-text60">
+              <span>未来志向デザインでビジョンを現実に</span>
+            </span>
+          </div>
+        </div>
+      </div>
+      <span class="frame-text62"><span>Scroll Down</span></span>
+      <div class="frame-willver2">
+        <div class="frame-frame392">
+          <div class="frame-frame62">
+            <img
+              alt="imagemessagekiri15011"
+              src="/external/imagemessagekiri15011-r2o2-800w.png"
+              class="frame-imagemessagekiri13"
+            />
+            <img
+              alt="imagemessagekiri15011"
+              src="/external/imagemessagekiri15011-r2o2-800w.png"
+              class="frame-imagemessagekiri14"
+            />
+            <div class="frame-frame402">
+              <span class="frame-text64">
+                <span>WILLVERが目指す未来のカタチ</span>
+              </span>
+              <span class="frame-text66">
+                <span>
+                  <span>時代が刻々と変化する中で、</span>
+                  <br />
+                  <span>
+                    未来の社会と人々の暮らしにどのような価値を提供できるのか。
+                  </span>
+                  <br />
+                  <span>WILLVERはその答えを追求し続けています。</span>
+                </span>
+              </span>
+              <span class="frame-text73">
+                <span>
+                  <span>
+                    私たちの目の前に広がる未来への道筋を、
+                    <span v-html="rawb8x0"></span>
+                  </span>
+                  <br />
+                  <span>
+                    創造力と独自の発想で照らし出すことが私たちの使命です。
+                  </span>
+                </span>
+              </span>
+              <span class="frame-text78">
+                <span>
+                  <span>
+                    これからの世界は、想像を超えたスピードで進化し続けます。
+                    <span v-html="rawlr2x"></span>
+                  </span>
+                  <br />
+                  <span>
+                    その変化を見据え、新たな課題やニーズに応えるための
+                    <span v-html="rawe4xs"></span>
+                  </span>
+                  <br />
+                  <span>革新的なソリューションやプロダクトを創造します。</span>
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="frame-frame3">
+        <div class="frame-frame385">
+          <span class="frame-text85"><span>Scroll Down</span></span>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -153,12 +235,15 @@ export default {
   props: {},
   data() {
     return {
-      rawxn4l: ' ',
-      raw9zfs: ' ',
-      rawhhla: ' ',
-      raw3ds1: ' ',
-      rawbrvb: ' ',
-      raw2ubf: ' ',
+      rawkg7z: ' ',
+      raw8qpt: ' ',
+      rawvdpb: ' ',
+      raw5hkl: ' ',
+      raw1q0a: ' ',
+      raw0m50: ' ',
+      rawb8x0: ' ',
+      rawlr2x: ' ',
+      rawe4xs: ' ',
     }
   },
 }
@@ -490,6 +575,13 @@ export default {
   height: 943px;
   position: absolute;
 }
+.frame-imagemessagekiri12 {
+  right: -559px;
+  width: 732px;
+  bottom: -18px;
+  height: 943px;
+  position: absolute;
+}
 .frame-frame401 {
   gap: 67px;
   height: 596px;
@@ -568,6 +660,214 @@ export default {
   justify-content: center;
 }
 .frame-text56 {
+  color: rgba(53, 217, 217, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Barlow;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame-frame384 {
+  gap: 16px;
+  display: flex;
+  padding: 1px 0;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.frame-frame372 {
+  gap: 100px;
+  height: 780px;
+  display: flex;
+  padding: 0 8px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.frame-frame352 {
+  gap: 10px;
+  width: 1478px;
+  height: 252px;
+  display: flex;
+  padding: 0 49px;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+.frame-frame342 {
+  gap: 10px;
+  top: 0px;
+  left: 0px;
+  width: 1474px;
+  display: flex;
+  padding: 7px 47px;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.frame-text58 {
+  color: rgba(232, 233, 237, 1);
+  width: 1380px;
+  height: auto;
+  font-size: 136px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: italic;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame-text60 {
+  color: rgba(232, 233, 237, 1);
+  height: auto;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Noto Sans JP;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame-text62 {
+  color: rgba(53, 217, 217, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Barlow;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame-willver2 {
+  width: 100%;
+  height: 943px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-frame392 {
+  gap: 1px;
+  top: 0.5px;
+  left: 0px;
+  width: 1478px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  background-color: rgba(13, 24, 59, 1);
+}
+.frame-frame62 {
+  gap: 10px;
+  display: flex;
+  padding: 173px 85px;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.frame-imagemessagekiri13 {
+  right: -559px;
+  width: 732px;
+  bottom: -18px;
+  height: 943px;
+  position: absolute;
+}
+.frame-imagemessagekiri14 {
+  right: -559px;
+  width: 732px;
+  bottom: -18px;
+  height: 943px;
+  position: absolute;
+}
+.frame-frame402 {
+  gap: 67px;
+  height: 596px;
+  display: flex;
+  z-index: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.frame-text64 {
+  color: rgba(40, 112, 229, 1);
+  width: 759px;
+  height: auto;
+  font-size: 53px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Noto Sans JP;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame-text66 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Noto Sans JP;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame-text73 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Noto Sans JP;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame-text78 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Noto Sans JP;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame-frame3 {
+  gap: 10px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 1);
+}
+.frame-frame385 {
+  gap: 16px;
+  display: flex;
+  padding: 1px 0;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.frame-text85 {
   color: rgba(53, 217, 217, 1);
   height: auto;
   font-size: 18px;
